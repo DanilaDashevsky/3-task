@@ -1,0 +1,7 @@
+﻿  3-е задание.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\Danla-monster\source\repos\3-е задание\3-е задание\3-е задание.cpp(28): warning C4715: Max: значение возвращается не при всех путях выполнения
+  Создание кода завершено
+  3-е задание.vcxproj -> C:\Users\Danla-monster\source\repos\3-е задание\Release\3-е задание.exe
